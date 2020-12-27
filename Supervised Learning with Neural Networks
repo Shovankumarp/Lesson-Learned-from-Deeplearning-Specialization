@@ -1,0 +1,25 @@
+Important terms:
+  -Supervised Learning
+  -Standard Neural Network
+  -Convolutional Neural network
+  -Recurrent Neural Network for sequence data,time series data
+  -Hybrid Neural Network Architecture
+  
+Applications of supervised learning?
+  -Real Estate - Input(Home Features) - Output(Price)
+  -Online Advertising - Input(Ad, user info) - Output(Click on Ad or not)
+  -Photo tagging
+  -Speech Recognition
+  -Machine Translation
+  -Autonomous Driving
+  
+  
+  Select wisely 
+  -input
+  -output
+  
+  Structured Data- Databases of data- well defined meaning
+  Unstructured Data- Audio/Text/Image
+  
+  
+  
