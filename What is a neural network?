@@ -1,0 +1,20 @@
+Problem: Housing price prediction using neural network.
+x(size of the house) -> y (price of the house)
+input features
+  size
+  #bedrooms
+  zip code
+  wealth
+
+(x,y) -given enough training data, neural network works pretty well to accurately mapping the functions
+
+
+
+Important Terms:
+  -Input features
+  -activation function
+  -neuron
+  -dense connection
+  -hidden layer
+  
+  
